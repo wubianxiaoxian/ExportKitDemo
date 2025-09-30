@@ -21,6 +21,20 @@ The app simulates a sales reporting system with:
 - Regional sales data
 - Real-time summary statistics
 
+### 🎥 Demo Video
+Watch the app in action: 
+
+<video width="600" controls>
+  <source src="./demo.mp4" type="video/mp4">
+</video>
+
+The video demonstrates:
+- Complete app interface and navigation
+- PDF export functionality with Share Sheet
+- CSV export and sharing workflow
+- TXT export demonstration
+- Real-time data refresh capabilities
+
 ## 🛠️ Technical Implementation
 
 ### Architecture
@@ -72,6 +86,8 @@ ExportKitDemo/
 │   ├── DataModel.swift          # Data structures
 │   ├── ExportManager.swift      # Export functionality
 │   └── ShareSheet.swift         # Share Sheet integration
+├── Demo/                        # Demo video
+│   └── Simulator Screen Recording - iPhone 16 - 2025-09-30 at 16.03.06.mov
 ├── ExportedFiles/               # Sample exported files
 │   ├── SalesReport_*.pdf        # Sample PDF report
 │   ├── SalesData_*.csv          # Sample CSV data
@@ -106,6 +122,7 @@ ExportKitDemo/
 2. **Run Demo**: Build and run on iOS Simulator or device
 3. **Test Exports**: Tap export buttons to generate files
 4. **Share Files**: Use iOS Share Sheet to distribute exported files
+5. **Watch Demo**: Check the video in `Demo/` folder for complete walkthrough
 
 ## 📋 Requirements
 
