@@ -1,0 +1,169 @@
+SALES REPORT
+Generated on: Sep 30, 2025 at 15:53
+
+SUMMARY
+Total Sales: $176230.00
+Total Records: 20
+
+DETAILED RECORDS
+================
+Record #1
+Date: Sep 2, 2025
+Product: MacBook Pro
+Quantity: 1
+Price: $2153.00
+Total: $2153.00
+Customer: Enterprise Ltd
+Region: Asia Pacific
+Record #2
+Date: Aug 25, 2025
+Product: AirPods Pro
+Quantity: 3
+Price: $1436.00
+Total: $4308.00
+Customer: Enterprise Ltd
+Region: North America
+Record #3
+Date: Aug 18, 2025
+Product: Apple Watch
+Quantity: 4
+Price: $2455.00
+Total: $9820.00
+Customer: Tech Corp
+Region: Europe
+Record #4
+Date: Aug 17, 2025
+Product: iPhone 15
+Quantity: 8
+Price: $1737.00
+Total: $13896.00
+Customer: Innovation Inc
+Region: Europe
+Record #5
+Date: Aug 13, 2025
+Product: iPhone 15
+Quantity: 9
+Price: $1836.00
+Total: $16524.00
+Customer: Enterprise Ltd
+Region: Europe
+Record #6
+Date: Aug 13, 2025
+Product: Apple Watch
+Quantity: 10
+Price: $2657.00
+Total: $26570.00
+Customer: Enterprise Ltd
+Region: Europe
+Record #7
+Date: Aug 12, 2025
+Product: iPad Air
+Quantity: 2
+Price: $1589.00
+Total: $3178.00
+Customer: Innovation Inc
+Region: Europe
+Record #8
+Date: Aug 10, 2025
+Product: Apple Watch
+Quantity: 3
+Price: $2164.00
+Total: $6492.00
+Customer: Enterprise Ltd
+Region: South America
+Record #9
+Date: Aug 8, 2025
+Product: Apple Watch
+Quantity: 10
+Price: $2499.00
+Total: $24990.00
+Customer: Tech Corp
+Region: Asia Pacific
+Record #10
+Date: Aug 8, 2025
+Product: AirPods Pro
+Quantity: 3
+Price: $625.00
+Total: $1875.00
+Customer: StartupXYZ
+Region: North America
+Record #11
+Date: Aug 5, 2025
+Product: MacBook Pro
+Quantity: 6
+Price: $2016.00
+Total: $12096.00
+Customer: Enterprise Ltd
+Region: Middle East
+Record #12
+Date: Aug 5, 2025
+Product: Apple Watch
+Quantity: 5
+Price: $1424.00
+Total: $7120.00
+Customer: Enterprise Ltd
+Region: Asia Pacific
+Record #13
+Date: Aug 4, 2025
+Product: AirPods Pro
+Quantity: 6
+Price: $2383.00
+Total: $14298.00
+Customer: Enterprise Ltd
+Region: Asia Pacific
+Record #14
+Date: Jul 19, 2025
+Product: AirPods Pro
+Quantity: 2
+Price: $2535.00
+Total: $5070.00
+Customer: StartupXYZ
+Region: South America
+Record #15
+Date: Jul 17, 2025
+Product: iPhone 15
+Quantity: 4
+Price: $330.00
+Total: $1320.00
+Customer: Digital Solutions
+Region: North America
+Record #16
+Date: Jul 10, 2025
+Product: Apple Watch
+Quantity: 6
+Price: $1813.00
+Total: $10878.00
+Customer: StartupXYZ
+Region: Middle East
+Record #17
+Date: Jul 7, 2025
+Product: Apple Watch
+Quantity: 6
+Price: $694.00
+Total: $4164.00
+Customer: StartupXYZ
+Region: South America
+Record #18
+Date: Jul 6, 2025
+Product: Apple Watch
+Quantity: 5
+Price: $366.00
+Total: $1830.00
+Customer: StartupXYZ
+Region: North America
+Record #19
+Date: Jul 5, 2025
+Product: iPad Air
+Quantity: 2
+Price: $1290.00
+Total: $2580.00
+Customer: Tech Corp
+Region: Europe
+Record #20
+Date: Jul 4, 2025
+Product: iPad Air
+Quantity: 4
+Price: $1767.00
+Total: $7068.00
+Customer: Tech Corp
+Region: North America
